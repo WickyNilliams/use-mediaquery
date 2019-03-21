@@ -12,7 +12,9 @@
     "hook",
     "matchMedia",
     "match",
-    "media"
+    "media",
+    "query",
+    "media query"
   ],
   "author": "Nick Williams",
   "license": "MIT",
