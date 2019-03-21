@@ -1,0 +1,25 @@
+{
+  "name": "use-matchmedia",
+  "version": "1.0.0",
+  "description": "react custom hook for matchMedia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "hook",
+    "matchMedia",
+    "match",
+    "media"
+  ],
+  "author": "Nick Williams",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.8.4"
+  },
+  "devDependencies": {
+    "react": "^16.8.4"
+  }
+}
