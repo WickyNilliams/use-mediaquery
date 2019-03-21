@@ -1,3 +1,3 @@
-# use-matchmedia
+# use-mediaquery
 
 react custom hook for matchMedia
